@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Projecto</string>
+    <string name="entrar">Entar</string>
+    <string name="textCadastro">Cria uma conta clicando aqui</string>
 </resources>
